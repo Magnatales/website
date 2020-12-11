@@ -1,2 +1,2 @@
-# webs
+# website
 Magnatales Games website
