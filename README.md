@@ -1,2 +1,2 @@
-# webstie
+# webs
 Magnatales Games website
