@@ -54,10 +54,20 @@ header{
 }
 
 .container img{
-	height: 11.8rem;
-	width: 50rem;
+	height: 9.4rem;
+	width: 40rem;
 	margin-right: 10rem; 
-	margin-top: 1rem;
+	margin-top: 4rem;
+	position: absolute;
+}
+
+.top-text h1{
+	height: 9.4rem;
+	width: 80rem;
+	text-decoration: none;
+	color: #fafafa;
+	margin-left: 50rem; 
+	margin-top: 8rem;
 	position: absolute;
 }
 
@@ -66,7 +76,7 @@ nav{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 5rem 0;
+	padding: 6rem 0;
 	border-bottom: 1px solid rgba(255,255,255,0.2);
 }
 
@@ -123,8 +133,8 @@ nav{
 
 .hero{
 	width: 100%;
-	height: 110vh;
-	background: linear-gradient(135deg, rgba(39,14,111,0.9) 0%, rgba(72,56,149,0.8)
+	height: 95vh;
+	background: linear-gradient(135deg, rgba(39,14,111,0.8) 0%, rgba(72,56,149,0.7)
 		100%), url("../img/background.png") center no-repeat;
 	background-size:  cover;
 	position: relative;
@@ -209,6 +219,7 @@ nav{
 	margin-left: 1rem;
 	padding: 1rem 2.5rem;
 	text-transform: uppercase;
+	font-size: 1rem;
 	transition: background-color 650ms;
 }
 
