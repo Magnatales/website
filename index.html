@@ -2,28 +2,112 @@
 <html lang ="en">
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,
+	maximum-scale=1.0, minimum-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>Magnatales Games</title>
+	<!--Ion Icons-->
+	<link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css"
+	rel="stylesheet">
+	<!--Google Fonts-->
+	<link href="http://fonts.googleapis.com/css?family=Nunito&display=swap" 
+	rel="stylesheet">
+	<link href="http://fonts.googleapis.com/css?family=Aldrich&display=swap" 
+	rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
+
 	<header>
-		<div class="main">
-			<br><br><br>
-				<ul>
-					<li class="active"><a href="#">Home</a></li>
-					<li><a href="#">Youtube</a></li>
-					<li><a href="#">Discord</a></li>
-					<li><a href="#">Steam</a></li>
-					<li><a href="#">Twitter</a></li>
+		<div class="container">
+			<a href="index.html">
+				<img src="img/logo.png" alt="">
+			</a>
+			<nav>
+				<div class="nav-brand">
+				</div>
+
+				<div class="menu-icons open">
+					<i class="icon ion-md-menu"></i>
+				</div>
+
+				<ul class="nav-list">
+					<div class="menu-icons close">
+						<i class="icon ion-md-close"></i>
+					</div>
+					<li class="nav-item">
+						<a href="#" class="nav-link">Home</a>
+					</li>
+					<li class="nav-item">
+						<a href="#" class="nav-link">Games</a>
+					</li>
+					<li class="nav-item">
+						<a href="#" class="nav-link">About us</a>
+					</li>
 				</ul>
-			<img src="img/duna.jpg">
-		</div>
-		<div class="title">
-			<h1>La web de la Duní</h1>
+			</nav>
 		</div>
 	</header>
 
+	<main>
+		<section class="hero">
+			<div class="container">
+				<div class="main-img">
+					<img src="img/portada.jpg" alt="">
+				</div>
+				<div class="main-message">
+					<h1>The Awoken Hero</h1>
+					<h3>Top Down Rpg</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vehicula magna mi, non auctor enim consectetur vel. Aliquam eleifend bibendum neque nec posuere. Pellentesque eu dui et risus tincidunt auctor. Suspendisse pretium hendrerit sollicitudin. Ut at turpis non velit rhoncus euismod. Phasellus sollicitudin sed justo ac efficitur. Nullam imperdiet, lorem nec iaculis molestie, sem enim maximus ipsum, interdum semper magna nisi ac ex.
+
+					Donec sed sapien rhoncus arcu suscipit vehicula. Sed rhoncus sed lectus eu mollis. Integer ut justo congue, lacinia urna sollicitudin, luctus dui. Cras tincidunt fringilla viverra. Aliquam facilisis eget ante ut ultrices. Praesent luctus, odio sit amet ullamcorper aliquet, magna mauris tincidunt ex, a mattis sem lacus in urna. Nullam vulputate eget lacus vitae feugiat.
+					</p>
+					<div class="cta">
+						<a href="#" class="btn">Itch io</a>
+						<a href="#" class="btn">Steam</a>
+						<a href="#" class="btn">Playstore</a>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="experience-outdoors">
+			<div class="container">
+				<div class="title-heading">
+					<h3>The Awoken Hero</h3>
+					<h1>Top down rpg</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+				</div>
+
+				<div class="activities-grid">
+					<!--grid item #1-->
+					<div class="activities-grid-item start-gazing">
+						<i class="icon ion-md-star"></i>
+						<h1>Game</h1>
+						<p>Donec sed sapien rhoncus arcu suscipit vehicula.</p>
+					</div>
+
+					<!--grid item #2-->
+					<div class="activities-grid-item hiking">
+						<i class="icon ion-md-compass"></i>
+						<h1>Another game</h1>
+						<p>Donec sed sapien rhoncus arcu suscipit vehicula.</p>
+					</div>
+
+				<div class="activities-grid">
+					<!--grid item #3-->
+					<div class="activities-grid-item camping">
+						<i class="icon ion-md-bonfire"></i>
+						<h1>Game</h1>
+						<p>Donec sed sapien rhoncus arcu suscipit vehicula.</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section></section>
+	</main>
+
+<script type="text/javascript" src="scripts.js"></script>
 </body>
 </html>
