@@ -207,6 +207,7 @@ nav{
 }
 
 .main-message p{
+	margin: 1rem 0;
 	text-transform: lowercase;
 }
 
