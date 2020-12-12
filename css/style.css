@@ -76,7 +76,7 @@ nav{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 6rem 0;
+	padding: 5rem 0;
 	border-bottom: 1px solid rgba(255,255,255,0.2);
 }
 
@@ -177,10 +177,11 @@ nav{
 }
 
 .main-img img{
-	width: 63rem;
-	height: 42rem;
-	margin-top: 0rem;
-	border-radius: 10px;
+	width: 61rem;
+	height: 40rem;
+	margin-top: -1rem;
+	border-radius: 10px;	
+	border: 5px solid rgba(255,255,255,0.2);
 	margin-left: 60rem;
 	color: #fafafa;
 	text-transform: uppercase;
@@ -190,6 +191,7 @@ nav{
 .main-message{
 	width: 100%;
 	max-width: 50rem;
+	min-height: 20rem;
 	margin-top: 10rem;
 	color: #fafafa;
 	text-transform: uppercase;
