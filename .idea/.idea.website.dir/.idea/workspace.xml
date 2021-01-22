@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3f63648-2dd9-4197-b9c1-7b0538d29c2b" name="Default Changelist" comment="" />
+    <list default="true" id="c3f63648-2dd9-4197-b9c1-7b0538d29c2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.website.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.website.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/duna.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/stars.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wave-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wave-medium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wave-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +27,8 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/index.html" />
       <option value="$PROJECT_DIR$/css/style.css" />
+      <option value="$PROJECT_DIR$/index.html" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lbVufTTHIt1ieW1PTMclcGiXoF" />
@@ -44,13 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1607866005041</updated>
       <workItem from="1607866009239" duration="1394000" />
+      <workItem from="1611352544654" duration="1968000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
