@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3f63648-2dd9-4197-b9c1-7b0538d29c2b" name="Default Changelist" comment="" />
+    <list default="true" id="c3f63648-2dd9-4197-b9c1-7b0538d29c2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.website.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.website.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about-pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about-pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +14,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/css/owl.carousel.min.css" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/css/style.css" />
+      <option value="$PROJECT_DIR$/css/owl.carousel.min.css" />
       <option value="$PROJECT_DIR$/index.html" />
+      <option value="$PROJECT_DIR$/css/style.css" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lbVufTTHIt1ieW1PTMclcGiXoF" />
@@ -33,6 +41,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,6 +56,7 @@
       <workItem from="1611352544654" duration="2768000" />
       <workItem from="1615306882499" duration="677000" />
       <workItem from="1619694189789" duration="600000" />
+      <workItem from="1619776103639" duration="3021000" />
     </task>
     <servers />
   </component>
