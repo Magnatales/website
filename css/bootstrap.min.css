@@ -416,17 +416,28 @@ pre code {
 }
 
  .container__blog {
-   width: 35%;
+   width: 100%;
    padding-right: 15px;
    padding-left: 15px;
    margin-right: auto;
    margin-left: auto;
  }
 
+ @media (min-width:1000px) {
+   .container {
+     max-width: 1140px
+   }
+   .container__blog {
+     width: 37%
+   }
+ }
+
+
 @media (min-width:1200px) {
   .container {
     max-width: 1140px
   }
+ 
 }
 .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
   width: 100%;
