@@ -1062,6 +1062,10 @@ ul, ol {
   transition:transform 0.25s ease;
 }
 
+.blog__item img:hover{
+  border: solid 1px black;
+}
+
 .blog__item img:active{
   -webkit-transform:scale(2); /* or some other value */
   transform:scale(2);
