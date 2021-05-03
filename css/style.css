@@ -37,8 +37,11 @@ p {
   margin: 0 0 15px
 }
 img {
-  max-width: 100%
+  max-width: 100%;
+  
 }
+
+
 input:focus, select:focus, button:focus, textarea:focus {
   outline: none
 }
@@ -1056,7 +1059,12 @@ ul, ol {
 }
 .blog__item img {
   min-width: 100%;
-  
+  transition:transform 0.25s ease;
+}
+
+.blog__item img:active{
+  -webkit-transform:scale(2); /* or some other value */
+  transform:scale(2);
 }
 .blog__item__text {
   padding: 35px 0;
