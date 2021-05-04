@@ -1042,7 +1042,8 @@ ul, ol {
 }
 .blog__item img {
   -webkit-box-shadow: 0 15px 60px rgba(67, 69, 70, .1);
-  box-shadow: 0 15px 60px rgba(67, 69, 70, .1)
+  box-shadow: 0 15px 60px rgba(67, 69, 70, .1);
+  transition:transform 0.25s ease;
 }
 
 .blog__item img:hover{
