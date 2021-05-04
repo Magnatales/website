@@ -1027,14 +1027,16 @@ ul, ol {
   padding-bottom: 120px
 }
 .blog__item__list .blog__item:first-child {
-  border: none;
   margin-bottom: 0
 }
 .blog__item__list .blog__item:last-child {
   margin-bottom: 0
 }
 .blog__item {
+  margin-top: 55px;
   margin-bottom: 55px;
+  border-left: 1px solid rgba(0, 0, 0, .1);
+  padding-left: 55px;
   border-bottom: 1px solid rgba(0, 0, 0, .1);
   padding-bottom: 55px
 }
