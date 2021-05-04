@@ -1044,6 +1044,16 @@ ul, ol {
   -webkit-box-shadow: 0 15px 60px rgba(67, 69, 70, .1);
   box-shadow: 0 15px 60px rgba(67, 69, 70, .1)
 }
+
+.blog__item img:hover{
+  border: solid 1px black;
+}
+
+.blog__item img:active {
+  -webkit-transform: scale(2); /* or some other value */
+  transform: scale(2);
+}
+
 .blog__item h2 {
   color: #111;
   font-weight: 600;
