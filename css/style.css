@@ -606,7 +606,8 @@ ul, ol {
   text-align: right
 }
 .team__item {
-  height: 480px;
+  height: 470px;
+  width: 350px;
   position: relative;
   z-index: 1;
   margin-bottom: 30px
