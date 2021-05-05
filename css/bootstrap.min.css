@@ -407,6 +407,7 @@ pre code {
   max-height: 340px;
   overflow-y: scroll
 }
+
 .container {
   width: 100%;
   padding-right: 15px;
@@ -414,6 +415,32 @@ pre code {
   margin-right: auto;
   margin-left: auto
 }
+
+ .container__about {
+   width: 100%;
+   padding-right: 15px;
+   padding-left: 15px;
+   margin-right: auto;
+   margin-left: auto;
+ }
+ .container__intro {
+   width: 100%;
+   align-content: center;
+   padding-right: 25px;
+   padding-left: 25px;
+   margin-right: auto;
+   margin-left: auto;
+   margin-bottom: -20px;
+ }
+
+ .container__contact {
+   width: 100%;
+   align-content: center;
+   padding-right: 25px;
+   padding-left: 25px;
+   margin-right: auto;
+   margin-left: auto;
+ }
 
  .container__blog {
    width: 100%;
@@ -423,6 +450,7 @@ pre code {
    margin-left: auto;
  }
 
+
  @media (min-width:1000px) {
    .container {
      max-width: 1140px
@@ -430,6 +458,22 @@ pre code {
    .container__blog {
      width: 37%
    }
+   .container__about{
+     width: 70%;
+     padding-right: 20px;
+     padding-left: 300px;
+   }
+   .container__contact {
+     width: 70%;
+     padding-right: 20px;
+     padding-left: 300px;
+   }
+   .container__intro {
+     width: 70%;
+     padding-right: 20px;
+     padding-left: 200px;
+   }
+   
  }
 
 
