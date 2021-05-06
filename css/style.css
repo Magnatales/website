@@ -1076,22 +1076,9 @@ ul, ol {
 }
 .blog__item__text a {
   font-size: 14px;
-  color: #111;
+  color: #00a99d;
   font-weight: 600;
   position: relative;
-  padding-left: 40px;
-  -webkit-transition: all, .5s;
-  -o-transition: all, .5s;
-  transition: all, .5s
-}
-.blog__item__text a:after {
-  position: absolute;
-  left: 0;
-  top: 8px;
-  height: 1px;
-  width: 30px;
-  background: #111;
-  content: "";
   -webkit-transition: all, .5s;
   -o-transition: all, .5s;
   transition: all, .5s
