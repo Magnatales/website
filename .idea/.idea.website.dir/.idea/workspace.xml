@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3f63648-2dd9-4197-b9c1-7b0538d29c2b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.website.dir/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.website.dir/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.website.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.website.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +24,8 @@
       <option value="$PROJECT_DIR$/index.html" />
       <option value="$PROJECT_DIR$/about.html" />
       <option value="$PROJECT_DIR$/store.html" />
-      <option value="$PROJECT_DIR$/blog.html" />
       <option value="$PROJECT_DIR$/contact.html" />
+      <option value="$PROJECT_DIR$/blog.html" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lbVufTTHIt1ieW1PTMclcGiXoF" />
@@ -43,7 +45,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.webOptions" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +66,7 @@
       <workItem from="1620023086623" duration="1718000" />
       <workItem from="1620028372735" duration="232000" />
       <workItem from="1620034196313" duration="1483000" />
-      <workItem from="1620281612610" duration="412000" />
+      <workItem from="1620281612610" duration="1846000" />
     </task>
     <servers />
   </component>
