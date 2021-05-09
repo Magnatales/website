@@ -606,6 +606,9 @@ ul, ol {
   text-align: right
 }
 .team__item {
+  border: 3px solid #82a8a5;
+  box-shadow: 7px 7px rgba(0,0,0,.10);
+  transition: all .4s ease;
   height: 470px;
   width: 350px;
   position: relative;
@@ -626,6 +629,7 @@ ul, ol {
   -o-transition: all, .5s, ease-out, .5s;
   transition: all, .5s, ease-out, .5s
 }
+
 .team__item:hover:after {
   opacity: 1
 }
