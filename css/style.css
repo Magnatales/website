@@ -658,6 +658,16 @@ ul, ol {
   position: relative;
   padding: 35px 30px 40px
 }
+
+.team__text a {
+  font-size: 14px;
+  color: #00a99d;
+  font-weight: 600;
+  position: relative;
+  -webkit-transition: all, .5s;
+  -o-transition: all, .5s;
+  transition: all, .5s
+}
 .team__text .team__title {
   position: absolute;
   left: 0;
