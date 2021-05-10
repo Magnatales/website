@@ -436,9 +436,19 @@ pre code {
  .container__team {
    width: 100%;
    align-content: center;
-   padding-right: 25px;
-   padding-left: 25px;
-   padding-bottom: 50px;
+   padding-right: 10px;
+   padding-left: 10px;
+   padding-bottom: 40px;
+   margin-right: auto;
+   margin-left: auto;
+ }
+
+ .container__team {
+   width: 100%;
+   align-content: center;
+   padding-right: 10px;
+   padding-left: 10px;
+   padding-bottom: 40px;
    margin-right: auto;
    margin-left: auto;
  }
@@ -485,8 +495,13 @@ pre code {
    }
    .container__team {
      width: 70%;
-     padding-right: 20px;
-     padding-left: 400px;
+     padding-right: 00px;
+     padding-left: 500px;
+   }
+   .container__team2 {
+     width: 70%;
+     padding-right: 00px;
+     padding-left: 500px;
    }
    
  }
@@ -516,18 +531,14 @@ pre code {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px
+  margin-right: -10px;
+  margin-left: -10px
 }
 
  .row__team {
-   display: flex;
-   display: flow;
+   display: inline-flex;
    -ms-flex-wrap: nowrap;
-   flex-wrap: wrap;
-   align-content: center;
-   margin-right: -15px;
-   margin-left: -15px;
+   width: 75%;
    padding-bottom: 200px;
  }
 .no-gutters {

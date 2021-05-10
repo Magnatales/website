@@ -609,7 +609,7 @@ ul, ol {
   border: 3px solid #82a8a5;
   box-shadow: 7px 7px rgba(0,0,0,.10);
   transition: all .4s ease;
-  height: 470px;
+  height: 420px;
   width: 350px;
   position: relative;
   z-index: 1;
