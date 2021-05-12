@@ -536,10 +536,18 @@ pre code {
 }
 
  .row__team {
-   display: inline-flex;
-   -ms-flex-wrap: nowrap;
+
    width: 75%;
    padding-bottom: 200px;
+ }
+
+ @media (min-width:1200px) {
+   .row__team {
+     display: inline-flex;
+     -ms-flex-wrap: nowrap;
+     width: 75%;
+     padding-bottom: 200px;
+   }
  }
 .no-gutters {
   margin-right: 0;
