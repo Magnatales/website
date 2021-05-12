@@ -443,14 +443,10 @@ pre code {
    margin-left: auto;
  }
 
- .container__team {
+ .container__team2 {
    width: 100%;
    align-content: center;
-   padding-right: 10px;
-   padding-left: 10px;
    padding-bottom: 40px;
-   margin-right: auto;
-   margin-left: auto;
  }
 
  .container__contact {
@@ -499,9 +495,9 @@ pre code {
      padding-left: 500px;
    }
    .container__team2 {
-     width: 70%;
+     width: 80%;
      padding-right: 00px;
-     padding-left: 500px;
+     padding-left: 420px;
    }
    
  }
