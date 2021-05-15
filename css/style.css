@@ -866,7 +866,7 @@ ul, ol {
 .footer {
   padding-top: 25px;
   padding-bottom: 15px;
-  background: #000d10;
+  background: rgb(0, 11, 12);
 }
 
 .footer__about {
@@ -989,7 +989,7 @@ ul, ol {
   padding-bottom: 90px
 }
 .about__text {
-  padding-top: 80px
+  padding-top: 30px
 }
 .about__text.about__page__text {
   padding-top: 0;
