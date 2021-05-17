@@ -424,8 +424,6 @@ pre code {
    margin-left: auto
  }
 
-
-
  .container__about {
    width: 100%;
    padding-right: 15px;
@@ -511,60 +509,14 @@ pre code {
      padding-left: 450px;
    }     max-width: 1140px
    }
-   .container__blog {
-     width: 37%
-   }
-   .container__about{
-     width: 70%;
-     padding-right: 20px;
-     padding-left: 300px;
-   }
-   .container__contact {
-     width: 70%;
-     padding-right: 20px;
-     padding-left: 300px;
-   }
-
-   .container__team {
-     width: 70%;
-     padding-right: 00px;
-     padding-left: 500px;
-   }
-   .container__team2 {
-     width: 77%;
-     padding-right: 00px;
-     padding-left: 450px;
-   }     max-width: 1140px
-   }
-   .container__blog {
-     width: 37%
-   }
-   .container__about{
-     width: 70%;
-     padding-right: 20px;
-     padding-left: 300px;
-   }
-   .container__contact {
-     width: 70%;
-     padding-right: 20px;
-     padding-left: 300px;
-   }
+ 
    .container__intro {
      width: 70%;
      padding-right: 20px;
      padding-left: 200px;
      margin-bottom: -20px;
    }
-   .container__team {
-     width: 70%;
-     padding-right: 00px;
-     padding-left: 500px;
-   }
-   .container__team2 {
-     width: 77%;
-     padding-right: 00px;
-     padding-left: 450px;
-   }
+
    
  }
 
@@ -573,8 +525,25 @@ pre code {
   .container {
     max-width: 1140px
   }
- 
+
+  
 }
+
+ @media (max-width:600px) {
+   .container__blog{
+     width: 100%;
+   }
+   .container__team{
+     witdh: 100%;
+   }
+   .container__team2{
+     width: 100%;
+   }
+   .container__about{
+     witdh:100%
+   }
+
+ }
 .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
   width: 100%;
   padding-right: 15px;
