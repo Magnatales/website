@@ -1086,6 +1086,10 @@ ul, ol {
 .blog__item img {
   min-width: 100%
 }
+.blog__item video {
+  max-width: 100%;
+  max-height: 100%;
+}
 .blog__item__text {
   
   padding: 35px 0;
