@@ -1016,6 +1016,7 @@ ul, ol {
   padding-left: 34px
 }
 .about__pic__inner {
+  
   position: relative;
   display: inline-block
 }
@@ -1028,6 +1029,13 @@ ul, ol {
   border: 15px solid rgba(0, 169, 157, .2);
   content: "";
   z-index: -1
+}
+@media (max-width:1200px) {
+  .about__pic__inner:after {
+    height: 0;
+    width: 0;
+
+  }
 }
 .about__page__services__text {
   margin-bottom: 30px
