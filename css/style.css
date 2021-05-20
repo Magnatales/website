@@ -262,7 +262,7 @@ ul, ol {
   position: relative
 }
 .header__menu ul li a:hover, .header__menu ul li.active a{
-	color: #ba2400;
+	color: #00a99d;
 }
 .header__menu ul li a:after {
   position: absolute;
@@ -270,7 +270,7 @@ ul, ol {
   bottom: 0;
   height: 2px;
   width: 100%;
-  background: #ba2400;
+  background: #00a99d;
   content: "";
   -webkit-transition: all, .4s;
   -o-transition: all, .4s;
