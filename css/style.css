@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   font-family: poppins, sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: #dbdede;
+  background-color: #f7f7f7;
 }
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
